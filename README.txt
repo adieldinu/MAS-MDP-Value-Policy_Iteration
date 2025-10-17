@@ -1,6 +1,6 @@
-By the looks of the graphs:
+From the graphs:
 
-Gauss-Seidel seems to converge the fastest as it skips over some redundant steps from Value Iteration.
+Gauss-Seidel seems to converge the fastest as it skips over some redundant steps from Value Iteration. It may prove useful when there is the need for a faster convergence.
 
 The same can't be said about Prioritized Sweeping.
 	Although i have tried many times it seems it either doesn't converge on some cases or gets blocked on a local plateua, wabbling around a value.
